@@ -9379,3 +9379,10 @@ Info: DATE=10.01.2026
 
 Licence: Redistributable. See LICENCE.linaro for details
 Originates from https://github.com/linux-msm/audioreach-topology.git
+--------------------------------------------------------------------------
+
+Driver: zynqmp_power - Xilinx ZynqMP SoC Power Management Unit FW
+
+File: xilinx/zynqmp/pmufw.bin
+
+Licence: MIT. See LICENSE.xilinx for details.
